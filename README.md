@@ -133,6 +133,24 @@ Login.java
 
 ---
 
+# 📸 Application Screenshots
+
+## 🔐 Login Page
+
+![Login Page](Login_page.jpg)
+
+---
+
+## 🏦 Dashboard
+
+![Dashboard](Dashboard.jpg)
+
+---
+
+## 💸 Deposit Page
+
+![Deposit](Deposit.jpg)
+
 # 🧠 Concepts Used
 
 - Java Swing Components
