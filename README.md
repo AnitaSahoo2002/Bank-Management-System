@@ -151,6 +151,10 @@ Login.java
 
 ![Deposit](Deposit.jpg)
 
+# 🎥 Working Demo
+
+[▶️ Click Here to Watch the Demo](https://github.com/AnitaSahoo2002/Bank-Management-System/blob/main/Bank_Management_demo.mp4)
+
 # 🧠 Concepts Used
 
 - Java Swing Components
